@@ -5,7 +5,6 @@ function App() {
 
 const [bg, setBg] = useState("Green");
 
-
   return (
 
     <>
